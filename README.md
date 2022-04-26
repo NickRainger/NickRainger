@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NickRainger
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning css html javascript python c
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me: you probably don't want to cuz i'm a trashy developer
+- 👀 I’m interested in doing your mom
+- 🌱 I’m currently learning how to do your mom
+- 💞️ I’m looking to collaborate doing your mom
+- 📫 How to reach me: send me your mom address
 
 <!---
 NickRainger/NickRainger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
