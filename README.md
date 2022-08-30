@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NickRainger
+<!-- - 👋 Hi, I’m @NickRainger
 - 👀 I’m interested in doing your mom
 - 🌱 I’m currently learning how to do your mom
 - 💞️ I’m looking to collaborate on doing your mom
